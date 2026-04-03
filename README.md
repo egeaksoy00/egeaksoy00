@@ -6,3 +6,6 @@ I enjoy working on hands-on projects that help me truly understand how things wo
 
 **How to reach me:**  
 📧 egeaksoy453@hotmail.com
+
+**My personal website**
+www.egeaksoy.net
