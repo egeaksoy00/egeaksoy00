@@ -7,5 +7,10 @@ I enjoy working on hands-on projects that help me truly understand how things wo
 **How to reach me:**  
 📧 egeaksoy453@hotmail.com
 
-**My personal website**
-www.egeaksoy.net
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ege%20Aksoy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/egeaksoy00)
+
+[![Personal Website](https://img.shields.io/badge/Website-egeaksoy.net-black?style=for-the-badge&logo=google-chrome)](https://egeaksoy.net)
+
+## 📈 GitHub Stats
+
+![Ege's GitHub stats](https://github-readme-stats.vercel.app/api?username=egeaksoy00&show_icons=true&theme=tokyonight)
