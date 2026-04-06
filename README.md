@@ -11,6 +11,4 @@ I enjoy working on hands-on projects that help me truly understand how things wo
 
 [![Personal Website](https://img.shields.io/badge/Website-egeaksoy.net-black?style=for-the-badge&logo=google-chrome)](https://egeaksoy.net)
 
-## 📈 GitHub Stats
-
-![Ege's GitHub stats](https://github-readme-stats.vercel.app/api?username=egeaksoy00&show_icons=true&theme=tokyonight)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Test+Automation+Engineer;Backend+Developer;Always+Building+Something)
